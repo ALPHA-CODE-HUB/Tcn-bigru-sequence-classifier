@@ -146,19 +146,6 @@ The repository includes code to generate:
 3. ROC curve with AUC score
 4. Precision-Recall curve
 
-## Citation
-
-If you use this code for your research, please cite:
-
-```
-@article{TCN-BiGRU-Malware,
-  title={TCN-BiGRU: A Hybrid Deep Learning Approach for Malware Detection Using API Call Sequences},
-  author={Your Name},
-  journal={arXiv preprint},
-  year={2025}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
